@@ -25,7 +25,7 @@
    <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
-<h2 align="left">Google & Amazon Services & Hosts & Domain Management & API</h2>
+<h2 align="left">Google Services & Amazon Services & Hosts & Domain Management & API</h2>
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/></a>
    <a href="https://www.hostgator.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hostgator/hostgator-ar21.svg" alt="hostgator" width="40" height="40"/></a>
@@ -33,7 +33,7 @@
    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="git lab" width="40" height="40"/></a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<h2 align="left">Netowrk & Team Management</h2>
+<h2 align="left">Network & Team Management</h2>
    <a href="https://asana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="Asana" width="40" height="40"/> </a>
    <a href="https://slack.com/intl/en-eg/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="slack" width="40" height="40"/> </a>
 <h2 align="left">Mobile Development</h2>
