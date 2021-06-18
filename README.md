@@ -6,6 +6,8 @@
   <br>
    <h2> Github Stats </h2> 
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanElshazlyEida&layout=compact&theme=tokyonight" /></a>
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HassanElshazlyEida&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h2> 
