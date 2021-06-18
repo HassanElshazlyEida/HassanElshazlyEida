@@ -1,15 +1,12 @@
-<h2 align="left">
- <abc>
-  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I'm Hassan Elshazly Eida :blush:<br>
-  <br> Full Stack Web Developer<br>
+<h2> Github Stats </h2> 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=HassanElshazlyEida&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanElshazlyEida&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=HassanElshazlyEida&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-   <h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanElshazlyEida&layout=compact&theme=tokyonight" /></a>
-
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=HassanElshazlyEida&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
- </abc>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <h2 align="left">Programming languages</h2>
