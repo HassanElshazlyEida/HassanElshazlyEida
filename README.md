@@ -7,6 +7,9 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=HassanElshazlyEida&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+# [GitLab-Contributions](https://gitlab.com/HassanElshazlyEida) 🤓
+
+Where my Github contribution graph looks a little weak, it's made up for at GitLab where I am contrubuting to a private project I have a contract for.  Click the link to see the graph.
 
 </p>
 </h2> 
