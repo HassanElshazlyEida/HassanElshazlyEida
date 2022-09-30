@@ -4,11 +4,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=HassanElshazlyEida&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=HassanElshazlyEida&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-# [GitLab-Contributions](https://gitlab.com/HassanElshazlyEida) 🤓
 
+<h2> [GitLab-Contributions](https://gitlab.com/HassanElshazlyEida) </h2> 🤓
 Where my Github contribution graph looks a little weak, it's made up for at GitLab where I am contrubuting to a private project I have a contract for.  Click the link to see the graph.
 
 </p>
