@@ -1,14 +1,13 @@
 <h2> Github Stats </h2> 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=HassanElshazlyEida&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
- <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=HassanElshazlyEida&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=HassanElshazlyEida&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=HassanElshazlyEida&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 </p>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
